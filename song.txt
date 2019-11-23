@@ -7,10 +7,4 @@ quatre
  seven
  eight 
  
- feature 
- feature
- 
- head
- head
- 
  ---------------
